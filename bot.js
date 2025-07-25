@@ -1621,5 +1621,5 @@ async function updatePartyMessage(party) {
 }
 
 / Login with your bot token
-client.login('MTM5Nzc4MTMwNjU2OTM5NjI2NA.GKOswf.ZKVrf9fS5qlwZZIfQQFN__1y_HZ05p3ua23y7s');
+client.login('MTM5Nzc4MTMwNjU2OTM5NjI2NA.Gaxu9Y.BqYr4h9y8BKXGuO55QOBjN3hFh79ahnan_507s');
 
